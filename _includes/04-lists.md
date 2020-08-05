@@ -1,5 +1,5 @@
 * I feel silly
-* Does any else?
+* Does anyone else?
 * Let's try an emoji
   * :tada:
 * That worked _really_  **well**!
